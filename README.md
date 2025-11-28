@@ -1,6 +1,7 @@
 <h1 align="center">
 <sub>
-<img width="30" src="" />
+<img width="38" src="https://github.com/user-attachments/assets/664eaad4-b13a-4f76-922a-401beaa6c2c6"
+" />
 </sub>
 Alpha Trimmer
 </h1>
