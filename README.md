@@ -6,12 +6,12 @@
 Alpha Trimmer
 </h1>
 
-[English](#english) | [日本語](#japanese)
+| [English](#english) | [Japanese](#japanese) |
+| :---: | :---: |
+| Alpha Trimmer is a Windows tool that automatically trims excess transparent areas from PNG and WebP images via the context menu (right-click menu). | Windowsのコンテキストメニュー(右クリックメニュー)から、PNGおよびWebP画像の余分な透明部分を自動的にトリミングするツールです。 |
 
 <a name="english"></a>
 ## English
-
-A Windows tool that automatically trims excess transparent areas from PNG and WebP images via the context menu (right-click menu).
 
 ### Features
 
@@ -56,8 +56,6 @@ Compile `Installer/setup_alpha_trimmer.iss` using Inno Setup.
 
 <a name="japanese"></a>
 ## 日本語
-
-Windowsのコンテキストメニュー（右クリックメニュー）から、PNGおよびWebP画像の余分な透明部分を自動的にトリミングするツールです。
 
 ### 機能
 
