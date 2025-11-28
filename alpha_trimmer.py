@@ -6,7 +6,7 @@ APP_VERSION = "1.0.0"
 
 def print_help():
     print(f"{APP_NAME} v{APP_VERSION}")
-    print("機能: PNGの透明部分を自動トリミングします")
+    print("機能: PNG/WebPの透明部分を自動トリミングします")
 
 def get_unique_filename(directory, base_name, ext):
     i = 1
