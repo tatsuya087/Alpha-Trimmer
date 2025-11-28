@@ -22,7 +22,7 @@ Alpha Trimmer
 
 ### Installation
 
-1. Download the installer (`Alpha_Trimmer_Setup.exe`) from [Releases](https://github.com/YOUR_USERNAME/AlphaTrimmer/releases).
+1. Download the installer (`Alpha_Trimmer_Setup.exe`) from [Releases]([https://github.com/YOUR_USERNAME/AlphaTrimmer/releases](https://github.com/tatsuya087/Alpha-Trimmer/releases)).
 2. Run the installer and follow the on-screen instructions.
 
 ### Usage
@@ -66,7 +66,7 @@ Compile `Installer/setup_alpha_trimmer.iss` using Inno Setup.
 
 ### インストール方法
 
-1. [Releases](https://github.com/YOUR_USERNAME/AlphaTrimmer/releases) からインストーラー (`Alpha_Trimmer_Setup.exe`) をダウンロードします。
+1. [Releases]([https://github.com/YOUR_USERNAME/AlphaTrimmer/releases](https://github.com/tatsuya087/Alpha-Trimmer/releases)) からインストーラー (`Alpha_Trimmer_Setup.exe`) をダウンロードします。
 2. インストーラーを実行し、画面の指示に従ってインストールしてください。
 
 ### 使い方
