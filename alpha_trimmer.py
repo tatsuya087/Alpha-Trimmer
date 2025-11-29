@@ -1,13 +1,6 @@
 from PIL import Image
 import sys
 import os
-APP_NAME = "Alpha Trimmer"
-APP_VERSION = "1.0.0"
-
-def print_help():
-    print(f"{APP_NAME} v{APP_VERSION}")
-    print("機能: PNG/WebPの透明部分を自動トリミングします")
-
 def get_unique_filename(directory, base_name, ext):
     i = 1
     while True:
@@ -36,8 +29,5 @@ def trim_transparency(image_path):
         pass
 
 if __name__ == '__main__':
-    if len(sys.argv) < 2:
-        print_help()
-    else:
-        for path in sys.argv[1:]:
-            trim_transparency(path)
+    for path in sys.argv[1:]:
+        trim_transparency(path)
