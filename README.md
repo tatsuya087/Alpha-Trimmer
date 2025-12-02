@@ -15,10 +15,10 @@ Alpha Trimmer
 
 ### Features
 
-- **Easy to use**: Just right-click an image file and select "Trim Transparency".
+- **Easy to use**
 - **Non-destructive**: The original image is not overwritten; it is automatically saved with a new name (e.g., `image-1.png`).
 - **Batch processing**: You can select multiple images and process them at once.
-- **Supports PNG and WebP**: Works with both formats.
+- **Supports PNG and WebP**
 
 ### Installation
 
@@ -59,10 +59,9 @@ Compile `Installer/setup_alpha_trimmer.iss` using Inno Setup.
 
 ### 機能
 
-- **簡単操作**: 画像ファイルを右クリックして「透明部分をトリミング」を選ぶだけ。
 - **非破壊編集**: 元の画像は上書きせず、自動的に別名（例: `image-1.png`）で保存します。
-- **一括処理**: 複数の画像を選択してまとめて処理できます。
-- **PNG / WebP 対応**: 両方のフォーマットに対応しています。
+- 複数の画像を選択してまとめて処理できます。
+- **PNG / WebP 対応**
 
 ### インストール方法
 
